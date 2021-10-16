@@ -10,6 +10,7 @@
   ],
   "main": "src/index.js",
   "dependencies": {
+    "gh-pages": "^3.2.3",
     "lorem-ipsum": "1.0.6",
     "react": "16.8.1",
     "react-dom": "16.8.1",
