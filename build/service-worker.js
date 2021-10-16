@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/animation-with-react-spring/precache-manifest.e41119d23af1821e0415381fb169381e.js"
+  "/animation-with-react-spring/precache-manifest.27544d9bb21e201c6f2b12dea47cd6b4.js"
 );
 
 workbox.clientsClaim();
